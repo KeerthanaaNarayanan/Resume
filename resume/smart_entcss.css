@@ -1,0 +1,86 @@
+*
+{
+	box-sizing: border-box;
+}
+#head
+{
+	font-family: "Jokerman";
+	color: rgb(128, 128, 192);
+	font-weight: bold;
+	word-spacing: 1em;
+	font-size: 25px;
+	text-align: center;
+	background-image: url("./Friendship-Day-SMS-Wallpaper.jpg");
+	background-size: cover;
+	background-attachment: scroll;
+	position: relative;
+	border: 3px solid rgb(255, 128, 64);
+
+}
+#bigbox
+{
+	border: 3px solid rgb(125, 0, 0);
+
+}
+#concept
+{
+	font-family: "Copper Black";
+	font-weight: 600;
+	font-size: 15px;
+	text-align: left;
+	border: 2px solid rgb(0,0, 128);
+	
+}
+#switch
+{
+	font-family: "Copper Black";
+	font-size: 20px;
+	text-align: center;
+	border: 2px dashed rgb(0,0,0) ;
+}
+#notify
+{
+	font-family: "Copper Black";
+	font-size: 20px;
+	text-align: center;
+	border: 2px dashed rgb(0,0,0) ;
+
+}
+#parking
+{
+	font-family: "Copper Black";
+	font-size: 20px;
+	text-align: center;
+	border: 2px dashed rgb(0,0,0) ;
+}
+#air
+{
+	font-family: "Copper Black";
+	font-size: 20px;
+	text-align: center;
+	border: 2px dashed rgb(0,0,0) ;
+}
+#waste
+{
+	font-family: "Copper Black";
+	font-size: 20px;
+	text-align: center;
+	border: 2px dashed rgb(0,0,0) ;
+}
+#water
+{
+	font-family: "Copper Black";
+	font-size: 20px;
+	text-align: center;
+	border: 2px dashed rgb(0,0,0) ;
+}
+#bottom
+{
+	font-family: "MV Boli"
+	font-size: 18px;
+	text-align: center;
+}
+.sections
+{
+
+}
